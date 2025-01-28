@@ -133,7 +133,7 @@ const Hero = () => {
         </h1>
 
         <div className='absolute left-0 top-0 z-40 size-full'>
-                <div className='m-5 px-5 sm:px-10'>
+                <div className='mt-24 px-5 sm:px-10'>
                     <h1 className='special-font hero-heading text-blue-75'>
                         redefi<b>n</b>e
                     </h1>

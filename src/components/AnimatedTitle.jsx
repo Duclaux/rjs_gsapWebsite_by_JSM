@@ -4,7 +4,6 @@ import React, { useEffect, useRef } from 'react'
 const AnimatedTitle = ({ title, containerClass }) => {
 
   const containerRef = useRef(null)
-  console.log(title)
 
   useEffect(() => {
     const ctx = gsap.context( () => {
